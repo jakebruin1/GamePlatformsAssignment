@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 384367442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b658e3b8356afef06c376bd3a1034d06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/forest_leaves_02_diffuse_2k.jpg
+Dependencies: []

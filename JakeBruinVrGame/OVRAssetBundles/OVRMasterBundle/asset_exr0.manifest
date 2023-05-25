@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 401019088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34c027dca4eb5edf5349af88bae1339a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/forest_leaves_02_nor_gl_2k.exr
+- Assets/HDR's/kloppenheim_02_puresky_4k.exr
+Dependencies: []

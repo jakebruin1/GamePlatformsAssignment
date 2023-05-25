@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3224586147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30652d48122434c5275cd374b7cf3c9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Animations/M1911@Fire.anim
+Dependencies: []

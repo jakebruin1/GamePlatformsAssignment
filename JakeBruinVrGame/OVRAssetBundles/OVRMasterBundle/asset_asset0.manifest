@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2815034212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ad55f61bfe248462eb9fbc55f05d4b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b7023aabd0cbf9cb717eb92d87373bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 187
+  Script: {instanceID: 0}
+- Class: 226
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Bare LOD0.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Small LOD1.asset
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Tall_BillboardAsset.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Medium LOD0.asset
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Bare_BillboardAsset.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Tall LOD1.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Medium LOD1.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array
+  [Normal] [AO] [Specular].asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array
+  [Albedo] [Smoothness].asset
+- Assets/New Terrain.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Tall LOD0.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Bare LOD1.asset
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Meshes/SM Conifer Small LOD0.asset
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Medium_BillboardAsset.asset
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Small_BillboardAsset.asset
+Dependencies:
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

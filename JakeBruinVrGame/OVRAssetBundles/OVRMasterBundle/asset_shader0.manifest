@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1496596518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23c5156aa0b86174b9a77851a4bafb54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime
+  Components/Shaders/CTI_LOD_Bark_Array_301.shader
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime
+  Components/Shaders/CTI_LOD_Billboard_301.shader
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime
+  Components/Shaders/CTI_LOD_Bark_301.shader
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime
+  Components/Shaders/CTI_LOD_Leaves_301.shader
+Dependencies: []

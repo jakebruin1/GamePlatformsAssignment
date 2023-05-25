@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4167126200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88979e15486668adea705dd269ef805a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Handgun_MetallicSmoothness.png
+- Assets/FreeAssets/TreeStump/Lantern.fbm/Light_Base_emissive.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/45ACP_Bullet_Normal.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Magazine_Albedo_Steel.png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Medium/Conifer Medium [Albedo].png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Magazine_Normal.png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Medium/Conifer Medium [Normal] [Trans] [Smoothness].png
+- Packages/com.unity.inputsystem/InputSystem/Editor/Icons/TrackedPoseDriver@4x.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Magazine_Albedo_Black.png
+- Assets/FreeAssets/TreeStump/Lantern.fbm/Light_Base_baseColor.png
+- Assets/FreeAssets/Bow And Arrow/Arrow_Arrow_BaseMap.png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Tall/Conifer Tall  [Normal] [Trans] [Smoothness].png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Tall/Conifer Tall [Albedo].png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Small/Conifer Small [Normal] [Trans] [Smoothness].png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Small/Conifer Small [Albedo].png
+- Assets/FreeAssets/TreeStump/Metal_Base_baseColor.png
+- Assets/FreeAssets/TreeStump/stump_baseColor.png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Bare/Conifer Bare [Normal] [Trans] [Smoothness].png
+- Assets/FreeAssets/Bow And Arrow/Arrow_Arrow_Normal.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash_SpriteSheet.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Handgun_Albedo_Steel.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Handgun_Albedo_Black.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Magazine_MetallicSmoothness.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/45ACP_Bullet_Albedo_Silver.png
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Textures/M1911_Handgun_Normal.png
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard
+  Bare/Conifer Bare [Albedo].png
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 304709675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 960ad3cb86844940b1bab44e96db7620
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b1b996afefcdb43727f3042384e65d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Terrain.terrainlayer
+Dependencies:
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_jpg0

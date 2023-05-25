@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 4236912900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0e97cc46b90e1cfe8733a3208b8f15a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 326acfb236fbeee7e7fa902eb23c025c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d677f1681015749b15c436eec6d880, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a961e4aca69da6c41b17575c58756777, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6be84e4d7829855419c06b94e56bd135, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 226
+  Script: {instanceID: 0}
+- Class: 227
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.ActivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.DeactivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.InteractionLayerMask
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.XRInteractableEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF
+  Conifer Bare BOTD.prefab
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF
+  Conifer Tall BOTD.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Handgun Black/M1911 Magazine_Black.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Base Prefabs/M1911 Handgun
+  Base.prefab
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF
+  Conifer Small BOTD.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet_Head.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet_Casing.prefab
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF
+  Conifer Medium BOTD.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Handgun Black/M1911 Handgun_Black.prefab
+- Assets/Prefabs/DefaultCanvas.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Handgun Black/M1911 Handgun_Black
+  (Shooting).prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Base Prefabs/Bullet_Casing.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Base Prefabs/Bullet_Head.prefab
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/_Prefabs/Base Prefabs/M1911 Magazine
+  Base.prefab
+Dependencies:
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_mat0

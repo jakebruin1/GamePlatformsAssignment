@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3896822939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ae2515152b367c1f1d12d6f254f8bfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Trunk [Normal]
+  [AO] [Specular].psd
+- Assets/FreeAssets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Branches
+  [Trans] [Smoothness].psd
+Dependencies: []

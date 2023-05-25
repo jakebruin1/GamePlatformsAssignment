@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2947053265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 968e3d9657abb8d97d6effae8ca8d099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Animations/M1911 Handgun Controller.controller
+Dependencies:
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_anim0

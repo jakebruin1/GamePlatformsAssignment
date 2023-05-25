@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2010590921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fa5446cac5106dfe5e28a2ed92f2ad0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57a9b39a27ca4c0f054418fb33c0d30a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 187
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Medium_BillboardMaterial.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Small_BillboardMaterial.mat
+- Assets/FreeAssets/Bow And Arrow/Arrow.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Materials/M
+  Conifer Bark Array BODT.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Materials/M1911 Handgun_Black.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Tall_BillboardMaterial.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Materials/M1911 Magazine_Black.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Materials/45ACP_Bullet_Silver.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Materials/M
+  Conifer Bark Simple BODT.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Materials/M1911 Handgun_Steel.mat
+- Assets/HDR's/NightSky.mat
+- Assets/FreeAssets/Nokobot/Modern Guns - Handgun/Materials/M1911 Magazine_Steel.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Billboards/Conifer
+  Bare_BillboardMaterial.mat
+- Assets/FreeAssets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Sources/Materials/M
+  Conifer Leaves BODT.mat
+Dependencies:
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_resources
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/GamePlatformsAssignment/JakeBruinVrGame/OVRAssetBundles/OVRMasterBundle/asset_tif0
